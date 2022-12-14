@@ -705,7 +705,11 @@ ol {
 .featured-courses {
 	padding-top: 67px;
 }
-
+.partner-preview {
+	width:200px;
+	height: 200px;
+	margin-bottom: 55px;
+}
 /*------------------
   Footer section
 ---------------------*/
